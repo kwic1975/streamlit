@@ -1,0 +1,13 @@
+_pycache_/
+git_ignore/
+.vscode/
+*.csv
+*.pdf
+*.html
+*.log
+*.json
+*.pkl
+*.xlsx
+*.docx
+*.xls
+*.doc
